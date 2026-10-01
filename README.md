@@ -489,13 +489,11 @@ If you enjoy **Purrdle** or find the project useful, you can support future deve
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/YOUR-BUYMEACOFFEE-USERNAME">
+<a href="https://www.buymeacoffee.com/SULAKSHAN-M">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee">
 </a>
 
 </div>
-
-> Replace `YOUR-BUYMEACOFFEE-USERNAME` with your actual Buy Me a Coffee username.
 
 ---
 
