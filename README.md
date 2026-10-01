@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 🐱 Purrdle
 
@@ -531,8 +531,3 @@ If you find **Purrdle** useful:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Happy%20Guessing!&fontSize=26" width="100%" alt="Footer">
 
 </div>
-'''
-
-out = Path("/mnt/data/Purrdle_README.md")
-out.write_text(readme, encoding="utf-8")
-print(f"Created {out}")
