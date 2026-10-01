@@ -1,8 +1,4 @@
-from pathlib import Path
 
-src = Path("/mnt/data/README.md").read_text(encoding="utf-8") if Path("/mnt/data/README.md").exists() else ""
-
-readme = r'''<div align="center">
 
 # 🐱 Purrdle
 
